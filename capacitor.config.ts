@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'CurrencyCalc',
+  appId: 'com.unicalc.app',
+  appName: 'UniCalc',
   webDir: 'www'
 };
 

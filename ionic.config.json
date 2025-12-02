@@ -1,5 +1,5 @@
 {
-  "name": "CurrencyCalc",
+  "name": "UniCalc",
   "integrations": {
     "capacitor": {}
   },
